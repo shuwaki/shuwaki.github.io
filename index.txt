@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Ibrahim Shuwaki
+Ibrahim Shuwaki
+.Net developer, Pharmacist
 
 Show Contacts
 
 Email
-richard@example.com
+shuwaki10@gmail.com
 
 Phone
-+1 (213) 352-2795
++234 803 859 0989
 
 Birthday
-June 23, 1982
+July 29, 1982
 
 Location
-Sacramento, California, USA
+Katsina, Katsina State, Nigeria
 
 # navbar
 
