@@ -16,3 +16,53 @@ title: Blog
     </li>
   {% endfor %}
 </ul>
+<style>/* Blog List Container */
+.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 2rem 0;
+}
+
+/* Individual Post Item */
+.post-list li {
+  margin-bottom: 2.5rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1.5rem;
+  transition: transform 0.2s ease;
+}
+
+.post-list li:last-child {
+  border-bottom: none;
+}
+
+/* Date Styling */
+.post-date {
+  font-size: 0.9rem;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Title Styling */
+.post-list h3 {
+  margin: 0.5rem 0;
+  font-size: 1.75rem;
+}
+
+.post-list h3 a {
+  text-decoration: none;
+  color: #2a7ae2;
+}
+
+.post-list h3 a:hover {
+  color: #111;
+  text-decoration: underline;
+}
+
+/* Excerpt Styling */
+.post-list p {
+  color: #444;
+  line-height: 1.6;
+  margin-top: 0.5rem;
+}
+</style>
