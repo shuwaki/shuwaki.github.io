@@ -4,8 +4,6 @@ title: "Welcome: Why This Blog Exists"
 date: 2026-02-04
 ---
 
-0
-
 ## A place to think in public
 
 I’ve built software for years without writing much about it. Most of the thinking stayed in my head, my code, or scattered notes. This blog changes that.
