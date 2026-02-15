@@ -3,8 +3,6 @@ layout: post
 title: "The LASA Dilemma: Why Medication Errors Persist Despite Competent Professionals"
 date: 2026-02-15
 ---
-# The LASA Dilemma: Why Medication Errors Persist Despite Competent Professionals
-
 Look-Alike / Sound-Alike (LASA) medication errors remain one of the most persistent and underestimated threats in pharmacy practice. They occur across hospital, community, and clinical settings worldwide, and they continue to appear in incident reports despite improved training, stricter protocols, and growing professional awareness. The reason is simple but often misunderstood: these errors are not primarily caused by incompetence — they arise from predictable properties of human cognition interacting with imperfect systems.
 
 Under real working conditions, the brain does not read drug names character by character. Instead, it relies on rapid pattern recognition. It processes the first few letters, compares them with familiar mental templates, and unconsciously fills in the remainder. This shortcut allows pharmacists to work efficiently under time pressure, but it also creates a structural vulnerability. When two drug names share prefixes, suffixes, syllabic rhythm, or packaging similarity, the probability of substitution rises sharply.
