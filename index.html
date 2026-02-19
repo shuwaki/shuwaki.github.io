@@ -943,7 +943,7 @@ layout: null
                                     <h3 class="h3 blog-item-title">{{ post.title }}</h3>
 
                                     <p class="blog-text">
-                                        Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+                                        {{ post.excerpt | strip_html | truncatewords: 25 }}
                                     </p>
 
                                 </div>
