@@ -2,6 +2,7 @@
 layout: post
 title: "Why Medication Errors Persist Despite Awareness: A Systems Analysis for Pharmacy Leadership"
 date: 2026-02-15
+category: Pharmacy Practice
 ---
 Medication errors remain a global concern despite decades of education, professional guidelines, and safety campaigns. Among the most discussed categories are Look-Alike / Sound-Alike (LASA) medication errors, often attributed to name similarity, labeling, or human oversight. Yet the persistence of these errors across institutions, regions, and levels of professional experience suggests a deeper reality:
 
