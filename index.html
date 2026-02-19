@@ -926,13 +926,13 @@ layout: null
                         <li class="blog-post-item">
                             <a href="{{ post.url | relative_url }}">
                                 <figure class="blog-banner-box">
-                                    <img src="./assets/images/blog-1.jpg" alt="Design conferences in 2022" loading="lazy">
+                                    <img src={{ post.image_path }} alt={{ post.title }} loading="lazy">
                                 </figure>
 
                                 <div class="blog-content">
 
                                     <div class="blog-meta">
-                                        <p class="blog-category">Design</p>
+                                        <p class="blog-category">{{ post.category }}</p>
 
                                         <span class="dot"></span>
 
