@@ -924,8 +924,7 @@ layout: null
                     <ul class="blog-posts-list">
 {% for post in site.posts %}
                         <li class="blog-post-item">
-                            <a href="#">
-
+                            <a href="{{ post.url | relative_url }}">
                                 <figure class="blog-banner-box">
                                     <img src="./assets/images/blog-1.jpg" alt="Design conferences in 2022" loading="lazy">
                                 </figure>
