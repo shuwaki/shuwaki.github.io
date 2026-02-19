@@ -3,7 +3,7 @@ layout: post
 title: "Welcome: Why This Blog Exists"
 date: 2026-02-04
 category: About Me
-image_path: /assets/images/dev.png
+image_path: /assets/images/dev2.png
 ---
 
 ## A place to think in public
