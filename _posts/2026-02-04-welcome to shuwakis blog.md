@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome: Why This Blog Exists"
 date: 2026-02-04
+category: About Me
 ---
 
 ## A place to think in public
