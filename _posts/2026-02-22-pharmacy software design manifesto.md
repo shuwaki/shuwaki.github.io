@@ -1,15 +1,11 @@
-# Pharmacy Software Design Manifesto
-
-*A boundary-first philosophy for building systems that respect pharmacy
-practice*
-
-------------------------------------------------------------------------
-
-## Preamble
-
-Pharmacy software does not practice pharmacy.
-
-Pharmacists do.
+---
+layout: post
+title: "Pharmacy Software Design Manifesto: A boundary-first philosophy for building systems that respect pharmacy practice"
+date: 2026-02-22
+category: Sofware Development
+image_path: /assets/images/design-manifesto-image.jpg
+---
+Pharmacy software does not practice pharmacy, Pharmacists do.
 
 Software exists to **support judgment, preserve safety, and reduce
 cognitive load** --- not to replace professional responsibility. This
