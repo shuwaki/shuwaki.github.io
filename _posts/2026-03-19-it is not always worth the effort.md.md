@@ -3,7 +3,7 @@ layout: post
 title: "It's Not Always Worth Proving Yourself: A Conversation with Claude"
 date: 2026-03-19
 category: Pharmacy Practice
-image_path: /assets/images/wothr-the-effort.png
+image_path: /assets/images/worth-the-effort.png
 ---
 
 **Shuwaki:**
