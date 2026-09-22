@@ -7,7 +7,6 @@ category: Shuwaki Worxpace feature update
 image_path: /assets/images/stock page.jpg
 ---
 
-# Improved way to take stock, error aware search
 
 Two parts of Worxpace have been rebuilt. Neither is a new button to learn. One makes a thing you do
 two hundred times a day more human nature-tolerant, and the other makes it right, finally, to stop
