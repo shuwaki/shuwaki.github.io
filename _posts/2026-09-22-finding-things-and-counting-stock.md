@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Improved way to take stock, error aware search"
-subtitle: "Two changes in Worxpace 2.7.5 that you need to know about."
 date: 2026-09-22
 category: Shuwaki Worxpace feature update
 image_path: /assets/images/stock page.jpg
 ---
 
+
+Two changes in Worxpace 2.7.5 that you need to know about.
 
 Two parts of Worxpace have been rebuilt. Neither is a new button to learn. One makes a thing you do
 two hundred times a day more human nature-tolerant, and the other makes it right, finally, to stop
