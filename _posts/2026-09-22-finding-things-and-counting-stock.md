@@ -3,7 +3,7 @@ layout: post
 title: "Improved way to take stock, error aware search"
 date: 2026-09-22
 category: Shuwaki Worxpace feature update
-image_path: /assets/images/stock-page.jpg
+image_path: /assets/images/stock-page.png
 ---
 
 
