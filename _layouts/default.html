@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}">
+</head>
+<body class="journal-page">
+  <div class="journal-glow journal-glow--top"></div>
+  <div class="journal-glow journal-glow--bottom"></div>
+
+  <header class="journal-nav">
+    <a class="journal-brand" href="{{ '/blog.html' | relative_url }}">
+      <span class="journal-brand__mark">S</span>
+      <span>Shuwaki</span>
+    </a>
+    <a class="journal-nav__link" href="{{ '/' | relative_url }}">Portfolio</a>
+  </header>
+
+  <main class="journal-main">
+    {{ content }}
+  </main>
+
+  <footer class="journal-footer">
+    <p>Thoughtful systems for better pharmacy practice.</p>
+    <a href="{{ '/blog.html' | relative_url }}">All writing</a>
+  </footer>
+</body>
+</html>
